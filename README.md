@@ -5,3 +5,8 @@ The programming language used is python.Atom text editor has been used with djan
 The solution which was found for the problem to find the local medical attention like blood banks oxygen cylinder availability etc can be now solved using a website developed using python language and django.this is a platform where normal citizens can view their local hospitals or medical institute with sufficient requirement of their need.also it is a platform where the hospital administration can update their available infrastructure facilities day to day using their login.there is also a master user who can control over  the data in the entire website and edit all the changes required.there is also a facility for the patient / citizen for registering to their required health facility which will be recieved by the health facility administrator in their respective dashboard of login.<br>
 * Hardware: nil
 * Software: django, Python.
+<br>
+<img src=https://github.com/elwin48/HAAE_Portal/raw/main/asset/1.jpeg>
+<img src=https://github.com/elwin48/HAAE_Portal/raw/main/asset/2.jpeg>
+<img src=https://github.com/elwin48/HAAE_Portal/raw/main/asset/3.jpeg>
+<img src=https://github.com/elwin48/HAAE_Portal/raw/main/asset/4.jpeg>
